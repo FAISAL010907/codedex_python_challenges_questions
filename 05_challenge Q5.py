@@ -24,4 +24,5 @@ age= int(input("enter the age of your cat : "))
 human_age = age*6
 
 print("the human age of your cat is : ", human_age)
-print("faisal")
+
+
